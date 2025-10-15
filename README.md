@@ -98,3 +98,13 @@ Folder: 23110088_BTCN_AI là folder chứa 2 file quan trọng nhất của bài
   UI.py: sẽ gọi lại file Algorithm.py, đây là file chứa giao diện, chức năng của bài. Bài toán cũng được chạy ở file này.  
 Folder: GIF sẽ chứa các gif là minh họa cách hoạt động của từng thuật toán.  
 File README.md là tài liệu hướng dẫn chung của bài làm. Chứa các thông tin người làm, thông tin bài làm, ...
+
+4. CÁC THUẬT TOÁN ĐÃ TRIỂN KHAI
+   
+4.1 Beam Search  
+![Beam](https://github.com/user-attachments/assets/d36fccf9-bbff-4b95-a0d6-ec70220f25dd)  
+4.2 A*  
+![A_star](https://github.com/user-attachments/assets/9c212330-0e87-487c-932c-b1115005e126)
+
+
+
