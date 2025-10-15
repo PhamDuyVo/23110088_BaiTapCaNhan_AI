@@ -1,6 +1,6 @@
 # 23110088_BaiTapCaNhan_AI
-Bài tập cá nhân HK1 2025-2026 môn TTNT
-BÁO CÁO BÀI TẬP CÁ NHÂN MÔN TRÍ TUỆ NHÂN TẠO 
+BÁO CÁO BÀI TẬP CÁ NHÂN MÔN TRÍ TUỆ NHÂN TẠO.
+
 1. THÔNG TIN CÁ NHÂN
 
 Họ và tên: Võ Phạm Duy  
@@ -8,7 +8,8 @@ Mã số sinh viên: 23110088
 Môn học: Trí tuệ Nhân tạo  
 Lớp: Sáng thứ 2 - thứ 6, tiết 1 - 4  
 
-2. TỔNG QUAN VỀ BÀI TOÁN: N QUÂN xe (N-rooks Problem)
+2. TỔNG QUAN VỀ BÀI TOÁN: N QUÂN xe (N-rooks Problem)  
+
 2.1. Mô tả Bài toán
 
 Bài toán đặt N quân xe (rooks) lên một bàn cờ N × N (0 < N < 9) sao cho không có hai quân xe nào tấn công nhau theo hàng, cột hoặc đường chéo.
@@ -25,6 +26,7 @@ Trạng thái ban đầu: Một danh sách rỗng [], tương ứng với bàn c
 Trạng thái đích: Một danh sách gồm N bộ (hàng, cột), trong đó không trùng hàng, cột, hoặc chéo, ví dụ: [(0, 1), (1, 3), (2, 0), (3, 2)] cho N = 4.
 
 3. CẤU TRÚC GIAO DIỆN VÀ CHỨC NĂNG
+
 3.1. Cấu Trúc Và Chức Năng
 
 Ứng dụng được xây dựng bằng thư viện customtkinter trong Python, với giao diện hiện đại, trực quan và hỗ trợ trực quan hóa các bước thuật toán.
