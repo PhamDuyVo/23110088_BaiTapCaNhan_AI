@@ -104,7 +104,12 @@ File README.md là tài liệu hướng dẫn chung của bài làm. Chứa các
 4.1 Beam Search  
 ![Beam](https://github.com/user-attachments/assets/d36fccf9-bbff-4b95-a0d6-ec70220f25dd)  
 4.2 A*  
-![A_star](https://github.com/user-attachments/assets/9c212330-0e87-487c-932c-b1115005e126)
+![A_star](https://github.com/user-attachments/assets/9c212330-0e87-487c-932c-b1115005e126)  
+4.3 And-Or search  
+![And-Or](https://github.com/user-attachments/assets/8945a533-5618-46ee-b927-04a15374efe7)
+
+
+
 
 
 
