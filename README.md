@@ -58,3 +58,5 @@ Logging:
 Mọi hành động như thử đặt quân xe, quay lui, loại bỏ vị trí bị tấn công, cắt tỉa đều được ghi lại chi tiết trong ô log, giúp hiểu rõ cách thuật toán hoạt động.
 
 3.3. Cấu Trúc Bài Làm
+```
+
