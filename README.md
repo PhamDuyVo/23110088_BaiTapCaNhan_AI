@@ -59,4 +59,33 @@ Mọi hành động như thử đặt quân xe, quay lui, loại bỏ vị trí 
 
 3.3. Cấu Trúc Bài Làm
 ```
-
+/23110088_BaiTapCaNhanAI
+│
+├── GIF/
+│   ├── AC3.gif
+│   ├── AStar.gif
+│   ├── Alpha_Beta.gif
+│   ├── And_Or.gif
+│   ├── BFS.gif
+│   ├── Backtracking.gif
+│   ├── Beam.gif
+│   ├── Belief_State.gif
+│   ├── DFS.gif
+│   ├── DLS.gif
+│   ├── Forward_Checking.gif
+│   ├── Genetic_Algorithm.gif
+│   ├── Greedy.gif
+│   ├── Hill_Climbing.gif
+│   ├── IDS.gif
+│   ├── Minimax.gif
+│   ├── Partially_Observable.gif
+│   ├── Simulated_Annealing.gif
+│   └── UCS.gif
+│
+├── 23110088_BTCN_AI/
+│   ├── Algorithm.py
+│   ├── UI.py
+│   
+├── Main.py
+└── README.md
+```
