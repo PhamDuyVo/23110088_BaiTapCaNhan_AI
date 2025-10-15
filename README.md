@@ -106,7 +106,39 @@ File README.md là tài liệu hướng dẫn chung của bài làm. Chứa các
 4.2 A*  
 ![A_star](https://github.com/user-attachments/assets/9c212330-0e87-487c-932c-b1115005e126)  
 4.3 And-Or search  
-![And-Or](https://github.com/user-attachments/assets/8945a533-5618-46ee-b927-04a15374efe7)
+![And-Or](https://github.com/user-attachments/assets/8945a533-5618-46ee-b927-04a15374efe7)  
+4.3 BackTracking  
+![BackTracking](https://github.com/user-attachments/assets/3db06712-c9b8-45e9-8e84-c7722f197910)  
+4.4 Belief State  
+![BeliefState](https://github.com/user-attachments/assets/1955140f-8e0a-4054-b5df-c7f7117283ec)  
+4.5 BFS  
+![BFS](https://github.com/user-attachments/assets/f4399c17-b556-41c0-b86a-e13c629c8060)  
+4.6 DFS  
+![DFS](https://github.com/user-attachments/assets/752d6bef-a0b3-4a83-b885-63cbe7dc7733)  
+4.7 IDS  
+![IDS](https://github.com/user-attachments/assets/e4067688-5c09-4fc6-bd4d-bafbedd38e8f)  
+4.8 DLS  
+![DLS](https://github.com/user-attachments/assets/5f68cfe5-be31-4f11-941b-c863f1adb75c)  
+4.9 Forward Checking  
+![Forward_Checking](https://github.com/user-attachments/assets/72b5e6d7-c331-4718-9312-555c20639079)  
+4.10 Genetic  
+![GA](https://github.com/user-attachments/assets/d8fce76c-044c-4e10-87b9-6f93df3853d2)  
+4.11 Greedy  
+![Greedy](https://github.com/user-attachments/assets/979d6bb9-e691-4fb4-af6e-c2d90058aa9a)  
+4.12 Hill Climbing  
+![Hill_Climbing](https://github.com/user-attachments/assets/ae100721-f2a0-4dcc-8b9a-fb727d99be82)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
