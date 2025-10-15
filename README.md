@@ -126,7 +126,13 @@ File README.md là tài liệu hướng dẫn chung của bài làm. Chứa các
 4.11 Greedy  
 ![Greedy](https://github.com/user-attachments/assets/979d6bb9-e691-4fb4-af6e-c2d90058aa9a)  
 4.12 Hill Climbing  
-![Hill_Climbing](https://github.com/user-attachments/assets/ae100721-f2a0-4dcc-8b9a-fb727d99be82)
+![Hill_Climbing](https://github.com/user-attachments/assets/ae100721-f2a0-4dcc-8b9a-fb727d99be82)  
+4.13 UCS  
+![UCS](https://github.com/user-attachments/assets/252cc55a-39bb-4e5a-b6ce-7556c56cb164)  
+4.14 Simulated Annealing  
+![SA](https://github.com/user-attachments/assets/8be4869c-a61d-4be5-a8d3-8a7cfd1ca4cc)
+
+
 
 
 
