@@ -64,9 +64,7 @@ Mọi hành động như thử đặt quân xe, quay lui, loại bỏ vị trí 
 /23110088_BaiTapCaNhanAI
 │
 ├── GIF/
-│   ├── AC3.gif
 │   ├── AStar.gif
-│   ├── Alpha_Beta.gif
 │   ├── And_Or.gif
 │   ├── BFS.gif
 │   ├── Backtracking.gif
