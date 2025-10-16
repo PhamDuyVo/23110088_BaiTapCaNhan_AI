@@ -91,7 +91,7 @@ Mọi hành động như thử đặt quân xe, quay lui, loại bỏ vị trí 
 
 Chức năng các FILE& FOLDER:  
 Folder: 23110088_BTCN_AI là folder chứa 2 file quan trọng nhất của bài làm, trong đó:  
-  Algorithm.py: là file chứa mã nguồn các nhóm thuật toán đã  
+  Algorithm.py: là file chứa mã nguồn các nhóm thuật toán đã học 
   UI.py: sẽ gọi lại file Algorithm.py, đây là file chứa giao diện, chức năng của bài. Bài toán cũng được chạy ở file này.  
 Folder: GIF sẽ chứa các gif là minh họa cách hoạt động của từng thuật toán.  
 File README.md là tài liệu hướng dẫn chung của bài làm. Chứa các thông tin người làm, thông tin bài làm, ...
