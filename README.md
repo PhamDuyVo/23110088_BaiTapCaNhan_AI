@@ -77,7 +77,6 @@ Mọi hành động như thử đặt quân xe, quay lui, loại bỏ vị trí 
 │   ├── Greedy.gif
 │   ├── Hill_Climbing.gif
 │   ├── IDS.gif
-│   ├── Minimax.gif
 │   ├── Partially_Observable.gif
 │   ├── Simulated_Annealing.gif
 │   └── UCS.gif
