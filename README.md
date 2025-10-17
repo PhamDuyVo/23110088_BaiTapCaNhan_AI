@@ -1,6 +1,6 @@
 # 23110088_BaiTapCaNhan_AI
 BÁO CÁO BÀI TẬP CÁ NHÂN MÔN TRÍ TUỆ NHÂN TẠO.
-
+https://github.com/PhamDuyVo/23110088_BaiTapCaNhan_AI
 1. THÔNG TIN CÁ NHÂN
 
 Họ và tên: Võ Phạm Duy  
